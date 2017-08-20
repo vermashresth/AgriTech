@@ -1,0 +1,796 @@
+,Soil,Month,State,Rice,Wheat,Cotton,Sugarcane,Tea,Ragi,Maize,Millet,Barley
+0,Alluvial,January,Andhra Pradesh and Telangana,1,0,0,0,0,0,0,0,0
+1,Alluvial,January,Assam,1,0,0,0,0,0,0,0,0
+2,Alluvial,January,Bihar,1,0,0,0,0,0,0,0,0
+3,Alluvial,January,Gujarat,1,0,0,0,0,0,0,0,0
+4,Alluvial,January,Haryana,1,0,0,0,0,0,0,0,0
+5,Alluvial,January,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+6,Alluvial,January,Karnataka,1,0,0,0,0,0,0,0,0
+7,Alluvial,January,Kerala,1,0,0,0,0,0,0,0,0
+8,Alluvial,January,Madhya Pradesh,1,0,0,0,0,0,0,0,0
+9,Alluvial,January,Maharashtra,1,0,0,0,0,0,0,0,0
+10,Alluvial,January,Odisha ,1,0,0,0,0,0,0,0,0
+11,Alluvial,January,Punjab,1,0,0,0,0,0,0,0,0
+12,Alluvial,January,Tamil Nadu,1,0,0,0,0,0,0,0,0
+13,Alluvial,January,Uttar Pradesh,1,0,0,0,0,0,0,0,0
+14,Alluvial,January,West Bengal,1,0,0,0,0,0,0,0,0
+15,Alluvial,January,Chhattisgarh,1,0,0,0,0,0,0,0,0
+16,Alluvial,January,Jharkhand,1,0,0,0,0,0,0,0,0
+17,Alluvial,January,Uttrakhand,1,0,0,0,0,0,0,0,0
+18,Alluvial,February,Andhra Pradesh and Telangana,0,0,0,1,0,0,0,0,0
+19,Alluvial,February,Karnataka,0,0,0,1,0,0,0,0,0
+20,Alluvial,February,Maharashtra,0,0,0,1,0,0,0,0,0
+21,Alluvial,February,Tamil Nadu,0,0,0,1,0,0,0,0,0
+22,Alluvial,February,Uttar Pradesh,0,0,0,1,0,0,0,0,0
+23,Alluvial,February,Uttrakhand,0,0,0,1,0,0,0,0,0
+24,Alluvial,March,Andhra Pradesh and Telangana,0,0,0,1,0,0,0,0,0
+25,Alluvial,March,Karnataka,0,0,0,1,0,0,0,0,0
+26,Alluvial,March,Maharashtra,0,0,0,1,0,0,0,0,0
+27,Alluvial,March,Tamil Nadu,0,0,0,1,0,0,0,0,0
+28,Alluvial,March,Uttar Pradesh,0,0,0,1,0,0,0,0,0
+29,Alluvial,March,Uttrakhand,0,0,0,1,0,0,0,0,0
+30,Alluvial,April,Andhra Pradesh and Telangana,0,0,1,1,0,0,0,0,0
+31,Alluvial,April,Gujarat,0,0,1,0,0,0,0,0,0
+32,Alluvial,April,Haryana,0,0,1,0,0,0,0,0,0
+33,Alluvial,April,Karnataka,0,0,1,1,0,0,0,0,0
+34,Alluvial,April,Madhya Pradesh,0,0,1,0,0,0,0,0,0
+35,Alluvial,April,Maharashtra,0,0,1,1,0,0,0,0,0
+36,Alluvial,April,Odisha ,0,0,1,0,0,0,0,0,0
+37,Alluvial,April,Punjab,0,0,1,0,0,0,0,0,0
+38,Alluvial,April,Rajasthan,0,0,1,0,0,0,0,0,0
+39,Alluvial,April,Tamil Nadu,0,0,1,1,0,0,0,0,0
+40,Alluvial,April,Uttar Pradesh,0,0,0,1,0,0,0,0,0
+41,Alluvial,April,Uttrakhand,0,0,0,1,0,0,0,0,0
+42,Alluvial,May,Andhra Pradesh and Telangana,1,0,1,1,0,0,0,0,0
+43,Alluvial,May,Assam,1,0,0,0,0,0,0,0,0
+44,Alluvial,May,Bihar,1,0,0,0,0,0,0,0,0
+45,Alluvial,May,Gujarat,1,0,1,0,0,0,0,0,0
+46,Alluvial,May,Haryana,1,0,1,0,0,0,0,0,0
+47,Alluvial,May,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+48,Alluvial,May,Karnataka,1,0,1,1,0,0,0,0,0
+49,Alluvial,May,Kerala,1,0,0,0,0,0,0,0,0
+50,Alluvial,May,Madhya Pradesh,1,0,1,0,0,0,0,0,0
+51,Alluvial,May,Maharashtra,1,0,1,1,0,0,0,0,0
+52,Alluvial,May,Odisha ,1,0,1,0,0,0,0,0,0
+53,Alluvial,May,Punjab,1,0,1,0,0,0,0,0,0
+54,Alluvial,May,Rajasthan,0,0,1,0,0,0,0,0,0
+55,Alluvial,May,Tamil Nadu,1,0,1,1,0,0,0,0,0
+56,Alluvial,May,Uttar Pradesh,1,0,0,1,0,0,0,0,0
+57,Alluvial,May,West Bengal,1,0,0,0,0,0,0,0,0
+58,Alluvial,May,Chhattisgarh,1,0,0,0,0,0,0,0,0
+59,Alluvial,May,Jharkhand,1,0,0,0,0,0,0,0,0
+60,Alluvial,May,Uttrakhand,1,0,0,1,0,0,0,0,0
+61,Alluvial,June,Andhra Pradesh and Telangana,1,0,1,1,0,0,0,0,0
+62,Alluvial,June,Assam,1,0,0,0,0,0,0,0,0
+63,Alluvial,June,Bihar,1,0,0,0,0,0,0,0,0
+64,Alluvial,June,Gujarat,1,0,1,0,0,0,0,0,0
+65,Alluvial,June,Haryana,1,0,1,0,0,0,0,0,0
+66,Alluvial,June,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+67,Alluvial,June,Karnataka,1,0,1,1,0,0,0,0,0
+68,Alluvial,June,Kerala,1,0,0,0,0,0,0,0,0
+69,Alluvial,June,Madhya Pradesh,1,0,1,0,0,0,0,0,0
+70,Alluvial,June,Maharashtra,1,0,1,1,0,0,0,0,0
+71,Alluvial,June,Odisha ,1,0,1,0,0,0,0,0,0
+72,Alluvial,June,Punjab,1,0,1,0,0,0,0,0,0
+73,Alluvial,June,Rajasthan,0,0,1,0,0,0,0,0,0
+74,Alluvial,June,Tamil Nadu,1,0,1,1,0,0,0,0,0
+75,Alluvial,June,Uttar Pradesh,1,0,0,1,0,0,0,0,0
+76,Alluvial,June,West Bengal,1,0,0,0,0,0,0,0,0
+77,Alluvial,June,Chhattisgarh,1,0,0,0,0,0,0,0,0
+78,Alluvial,June,Jharkhand,1,0,0,0,0,0,0,0,0
+79,Alluvial,June,Uttrakhand,1,0,0,1,0,0,0,0,0
+80,Alluvial,July,Andhra Pradesh and Telangana,1,0,1,1,0,0,0,0,0
+81,Alluvial,July,Assam,1,0,0,0,0,0,0,0,0
+82,Alluvial,July,Bihar,1,0,0,0,0,0,0,0,0
+83,Alluvial,July,Gujarat,1,0,1,0,0,0,0,0,0
+84,Alluvial,July,Haryana,1,0,1,0,0,0,0,0,0
+85,Alluvial,July,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+86,Alluvial,July,Karnataka,1,0,1,1,0,0,0,0,0
+87,Alluvial,July,Kerala,1,0,0,0,0,0,0,0,0
+88,Alluvial,July,Madhya Pradesh,1,0,1,0,0,0,0,0,0
+89,Alluvial,July,Maharashtra,1,0,1,1,0,0,0,0,0
+90,Alluvial,July,Odisha ,1,0,1,0,0,0,0,0,0
+91,Alluvial,July,Punjab,1,0,1,0,0,0,0,0,0
+92,Alluvial,July,Rajasthan,0,0,1,0,0,0,0,0,0
+93,Alluvial,July,Tamil Nadu,1,0,1,1,0,0,0,0,0
+94,Alluvial,July,Uttar Pradesh,1,0,0,1,0,0,0,0,0
+95,Alluvial,July,West Bengal,1,0,0,0,0,0,0,0,0
+96,Alluvial,July,Chhattisgarh,1,0,0,0,0,0,0,0,0
+97,Alluvial,July,Jharkhand,1,0,0,0,0,0,0,0,0
+98,Alluvial,July,Uttrakhand,1,0,0,1,0,0,0,0,0
+99,Alluvial,August,Andhra Pradesh and Telangana,1,0,1,1,0,0,0,0,0
+100,Alluvial,August,Assam,1,0,0,0,0,0,0,0,0
+101,Alluvial,August,Bihar,1,0,0,0,0,0,0,0,0
+102,Alluvial,August,Gujarat,1,0,1,0,0,0,0,0,0
+103,Alluvial,August,Haryana,1,0,1,0,0,0,0,0,0
+104,Alluvial,August,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+105,Alluvial,August,Karnataka,1,0,1,1,0,0,0,0,0
+106,Alluvial,August,Kerala,1,0,0,0,0,0,0,0,0
+107,Alluvial,August,Madhya Pradesh,1,0,1,0,0,0,0,0,0
+108,Alluvial,August,Maharashtra,1,0,1,1,0,0,0,0,0
+109,Alluvial,August,Odisha ,1,0,1,0,0,0,0,0,0
+110,Alluvial,August,Punjab,1,0,1,0,0,0,0,0,0
+111,Alluvial,August,Rajasthan,0,0,1,0,0,0,0,0,0
+112,Alluvial,August,Tamil Nadu,1,0,1,1,0,0,0,0,0
+113,Alluvial,August,Uttar Pradesh,1,0,0,1,0,0,0,0,0
+114,Alluvial,August,West Bengal,1,0,0,0,0,0,0,0,0
+115,Alluvial,August,Chhattisgarh,1,0,0,0,0,0,0,0,0
+116,Alluvial,August,Jharkhand,1,0,0,0,0,0,0,0,0
+117,Alluvial,August,Uttrakhand,1,0,0,1,0,0,0,0,0
+118,Alluvial,September,Andhra Pradesh and Telangana,1,0,0,0,0,0,0,0,0
+119,Alluvial,September,Assam,1,0,0,0,0,0,0,0,0
+120,Alluvial,September,Bihar,1,0,0,0,0,0,0,0,0
+121,Alluvial,September,Gujarat,1,0,0,0,0,0,0,0,0
+122,Alluvial,September,Haryana,1,0,0,0,0,0,0,0,0
+123,Alluvial,September,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+124,Alluvial,September,Karnataka,1,0,0,0,0,0,0,0,0
+125,Alluvial,September,Kerala,1,0,0,0,0,0,0,0,0
+126,Alluvial,September,Madhya Pradesh,1,0,0,0,0,0,0,0,0
+127,Alluvial,September,Maharashtra,1,0,0,0,0,0,0,0,0
+128,Alluvial,September,Odisha ,1,0,0,0,0,0,0,0,0
+129,Alluvial,September,Punjab,1,0,0,0,0,0,0,0,0
+130,Alluvial,September,Tamil Nadu,1,0,0,0,0,0,0,0,0
+131,Alluvial,September,Uttar Pradesh,1,0,0,0,0,0,0,0,0
+132,Alluvial,September,West Bengal,1,0,0,0,0,0,0,0,0
+133,Alluvial,September,Chhattisgarh,1,0,0,0,0,0,0,0,0
+134,Alluvial,September,Jharkhand,1,0,0,0,0,0,0,0,0
+135,Alluvial,September,Uttrakhand,1,0,0,0,0,0,0,0,0
+136,Alluvial,October,Bihar,0,1,0,0,0,0,0,0,0
+137,Alluvial,October,Gujarat,0,1,0,0,0,0,0,0,0
+138,Alluvial,October,Haryana,0,1,0,0,0,0,0,0,0
+139,Alluvial,October,Himachal Pradesh,0,1,0,0,0,0,0,0,0
+140,Alluvial,October,Madhya Pradesh,0,1,0,0,0,0,0,0,0
+141,Alluvial,October,Punjab,0,1,0,0,0,0,0,0,0
+142,Alluvial,October,Rajasthan,0,1,0,0,0,0,0,0,0
+143,Alluvial,October,Uttar Pradesh,0,1,0,0,0,0,0,0,0
+144,Alluvial,October,West Bengal,0,1,0,0,0,0,0,0,0
+145,Alluvial,October,Jharkhand,0,1,0,0,0,0,0,0,0
+146,Alluvial,October,Uttrakhand,0,1,0,0,0,0,0,0,0
+147,Alluvial,November,Bihar,0,1,0,0,0,0,0,0,0
+148,Alluvial,November,Gujarat,0,1,0,0,0,0,0,0,0
+149,Alluvial,November,Haryana,0,1,0,0,0,0,0,0,0
+150,Alluvial,November,Himachal Pradesh,0,1,0,0,0,0,0,0,0
+151,Alluvial,November,Madhya Pradesh,0,1,0,0,0,0,0,0,0
+152,Alluvial,November,Punjab,0,1,0,0,0,0,0,0,0
+153,Alluvial,November,Rajasthan,0,1,0,0,0,0,0,0,0
+154,Alluvial,November,Uttar Pradesh,0,1,0,0,0,0,0,0,0
+155,Alluvial,November,West Bengal,0,1,0,0,0,0,0,0,0
+156,Alluvial,November,Jharkhand,0,1,0,0,0,0,0,0,0
+157,Alluvial,November,Uttrakhand,0,1,0,0,0,0,0,0,0
+158,Alluvial,December,Andhra Pradesh and Telangana,1,0,0,0,0,0,0,0,0
+159,Alluvial,December,Assam,1,0,0,0,0,0,0,0,0
+160,Alluvial,December,Bihar,1,1,0,0,0,0,0,0,0
+161,Alluvial,December,Gujarat,1,1,0,0,0,0,0,0,0
+162,Alluvial,December,Haryana,1,1,0,0,0,0,0,0,0
+163,Alluvial,December,Himachal Pradesh,1,1,0,0,0,0,0,0,0
+164,Alluvial,December,Karnataka,1,0,0,0,0,0,0,0,0
+165,Alluvial,December,Kerala,1,0,0,0,0,0,0,0,0
+166,Alluvial,December,Madhya Pradesh,1,1,0,0,0,0,0,0,0
+167,Alluvial,December,Maharashtra,1,0,0,0,0,0,0,0,0
+168,Alluvial,December,Odisha ,1,0,0,0,0,0,0,0,0
+169,Alluvial,December,Punjab,1,1,0,0,0,0,0,0,0
+170,Alluvial,December,Rajasthan,0,1,0,0,0,0,0,0,0
+171,Alluvial,December,Tamil Nadu,1,0,0,0,0,0,0,0,0
+172,Alluvial,December,Uttar Pradesh,1,1,0,0,0,0,0,0,0
+173,Alluvial,December,West Bengal,1,1,0,0,0,0,0,0,0
+174,Alluvial,December,Chhattisgarh,1,0,0,0,0,0,0,0,0
+175,Alluvial,December,Jharkhand,1,1,0,0,0,0,0,0,0
+176,Alluvial,December,Uttrakhand,1,1,0,0,0,0,0,0,0
+177,Red,January,Andhra Pradesh and Telangana,1,0,0,0,0,0,0,1,0
+178,Red,January,Assam,1,0,0,0,0,0,0,0,0
+179,Red,January,Bihar,1,0,0,0,0,0,0,0,0
+180,Red,January,Gujarat,1,0,0,0,0,0,0,1,0
+181,Red,January,Haryana,1,0,0,0,0,0,0,1,0
+182,Red,January,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+183,Red,January,Karnataka,1,0,0,0,0,0,0,1,0
+184,Red,January,Kerala,1,0,0,0,0,0,0,0,0
+185,Red,January,Madhya Pradesh,1,0,0,0,0,0,0,1,0
+186,Red,January,Maharashtra,1,0,0,0,0,0,0,1,0
+187,Red,January,Odisha ,1,0,0,0,0,0,0,0,0
+188,Red,January,Punjab,1,0,0,0,0,0,0,0,0
+189,Red,January,Rajasthan,0,0,0,0,0,0,0,1,0
+190,Red,January,Tamil Nadu,1,0,0,0,0,0,0,1,0
+191,Red,January,Uttar Pradesh,1,0,0,0,0,0,0,1,0
+192,Red,January,West Bengal,1,0,0,0,0,0,0,0,0
+193,Red,January,Chhattisgarh,1,0,0,0,0,0,0,0,0
+194,Red,January,Jharkhand,1,0,0,0,0,0,0,0,0
+195,Red,January,Uttrakhand,1,0,0,0,0,0,0,0,0
+196,Red,February,Andhra Pradesh and Telangana,0,0,0,1,0,0,0,1,0
+197,Red,February,Gujarat,0,0,0,0,0,0,0,1,0
+198,Red,February,Haryana,0,0,0,0,0,0,0,1,0
+199,Red,February,Karnataka,0,0,0,1,0,0,0,1,0
+200,Red,February,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+201,Red,February,Maharashtra,0,0,0,1,0,0,0,1,0
+202,Red,February,Rajasthan,0,0,0,0,0,0,0,1,0
+203,Red,February,Tamil Nadu,0,0,0,1,0,0,0,1,0
+204,Red,February,Uttar Pradesh,0,0,0,1,0,0,0,1,0
+205,Red,February,Uttrakhand,0,0,0,1,0,0,0,0,0
+206,Red,March,Andhra Pradesh and Telangana,0,0,0,1,0,0,0,0,0
+207,Red,March,Karnataka,0,0,0,1,0,0,0,0,0
+208,Red,March,Maharashtra,0,0,0,1,0,0,0,0,0
+209,Red,March,Tamil Nadu,0,0,0,1,0,0,0,0,0
+210,Red,March,Uttar Pradesh,0,0,0,1,0,0,0,0,0
+211,Red,March,Uttrakhand,0,0,0,1,0,0,0,0,0
+212,Red,April,Andhra Pradesh and Telangana,0,0,0,1,0,0,0,0,0
+213,Red,April,Karnataka,0,0,0,1,0,0,0,0,0
+214,Red,April,Maharashtra,0,0,0,1,0,0,0,0,0
+215,Red,April,Tamil Nadu,0,0,0,1,0,0,0,0,0
+216,Red,April,Uttar Pradesh,0,0,0,1,0,0,0,0,0
+217,Red,April,Uttrakhand,0,0,0,1,0,0,0,0,0
+218,Red,May,Andhra Pradesh and Telangana,1,0,0,1,0,0,0,1,0
+219,Red,May,Assam,1,0,0,0,0,0,0,0,0
+220,Red,May,Bihar,1,0,0,0,0,0,0,0,0
+221,Red,May,Gujarat,1,0,0,0,0,0,0,1,0
+222,Red,May,Haryana,1,0,0,0,0,0,0,1,0
+223,Red,May,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+224,Red,May,Karnataka,1,0,0,1,0,0,0,1,0
+225,Red,May,Kerala,1,0,0,0,0,0,0,0,0
+226,Red,May,Madhya Pradesh,1,0,0,0,0,0,0,1,0
+227,Red,May,Maharashtra,1,0,0,1,0,0,0,1,0
+228,Red,May,Odisha ,1,0,0,0,0,0,0,0,0
+229,Red,May,Punjab,1,0,0,0,0,0,0,0,0
+230,Red,May,Rajasthan,0,0,0,0,0,0,0,1,0
+231,Red,May,Tamil Nadu,1,0,0,1,0,0,0,1,0
+232,Red,May,Uttar Pradesh,1,0,0,1,0,0,0,1,0
+233,Red,May,West Bengal,1,0,0,0,0,0,0,0,0
+234,Red,May,Chhattisgarh,1,0,0,0,0,0,0,0,0
+235,Red,May,Jharkhand,1,0,0,0,0,0,0,0,0
+236,Red,May,Uttrakhand,1,0,0,1,0,0,0,0,0
+237,Red,June,Andhra Pradesh and Telangana,1,0,0,1,0,0,0,1,0
+238,Red,June,Assam,1,0,0,0,0,0,0,0,0
+239,Red,June,Bihar,1,0,0,0,0,0,0,0,0
+240,Red,June,Gujarat,1,0,0,0,0,0,0,1,0
+241,Red,June,Haryana,1,0,0,0,0,0,0,1,0
+242,Red,June,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+243,Red,June,Karnataka,1,0,0,1,0,0,0,1,0
+244,Red,June,Kerala,1,0,0,0,0,0,0,0,0
+245,Red,June,Madhya Pradesh,1,0,0,0,0,0,0,1,0
+246,Red,June,Maharashtra,1,0,0,1,0,0,0,1,0
+247,Red,June,Odisha ,1,0,0,0,0,0,0,0,0
+248,Red,June,Punjab,1,0,0,0,0,0,0,0,0
+249,Red,June,Rajasthan,0,0,0,0,0,0,0,1,0
+250,Red,June,Tamil Nadu,1,0,0,1,0,0,0,1,0
+251,Red,June,Uttar Pradesh,1,0,0,1,0,0,0,1,0
+252,Red,June,West Bengal,1,0,0,0,0,0,0,0,0
+253,Red,June,Chhattisgarh,1,0,0,0,0,0,0,0,0
+254,Red,June,Jharkhand,1,0,0,0,0,0,0,0,0
+255,Red,June,Uttrakhand,1,0,0,1,0,0,0,0,0
+256,Red,July,Andhra Pradesh and Telangana,1,0,0,1,0,0,0,1,0
+257,Red,July,Assam,1,0,0,0,0,0,0,0,0
+258,Red,July,Bihar,1,0,0,0,0,0,0,0,0
+259,Red,July,Gujarat,1,0,0,0,0,0,0,1,0
+260,Red,July,Haryana,1,0,0,0,0,0,0,1,0
+261,Red,July,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+262,Red,July,Karnataka,1,0,0,1,0,0,0,1,0
+263,Red,July,Kerala,1,0,0,0,0,0,0,0,0
+264,Red,July,Madhya Pradesh,1,0,0,0,0,0,0,1,0
+265,Red,July,Maharashtra,1,0,0,1,0,0,0,1,0
+266,Red,July,Odisha ,1,0,0,0,0,0,0,0,0
+267,Red,July,Punjab,1,0,0,0,0,0,0,0,0
+268,Red,July,Rajasthan,0,0,0,0,0,0,0,1,0
+269,Red,July,Tamil Nadu,1,0,0,1,0,0,0,1,0
+270,Red,July,Uttar Pradesh,1,0,0,1,0,0,0,1,0
+271,Red,July,West Bengal,1,0,0,0,0,0,0,0,0
+272,Red,July,Chhattisgarh,1,0,0,0,0,0,0,0,0
+273,Red,July,Jharkhand,1,0,0,0,0,0,0,0,0
+274,Red,July,Uttrakhand,1,0,0,1,0,0,0,0,0
+275,Red,August,Andhra Pradesh and Telangana,1,0,0,1,0,0,0,1,0
+276,Red,August,Assam,1,0,0,0,0,0,0,0,0
+277,Red,August,Bihar,1,0,0,0,0,0,0,0,0
+278,Red,August,Gujarat,1,0,0,0,0,0,0,1,0
+279,Red,August,Haryana,1,0,0,0,0,0,0,1,0
+280,Red,August,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+281,Red,August,Karnataka,1,0,0,1,0,0,0,1,0
+282,Red,August,Kerala,1,0,0,0,0,0,0,0,0
+283,Red,August,Madhya Pradesh,1,0,0,0,0,0,0,1,0
+284,Red,August,Maharashtra,1,0,0,1,0,0,0,1,0
+285,Red,August,Odisha ,1,0,0,0,0,0,0,0,0
+286,Red,August,Punjab,1,0,0,0,0,0,0,0,0
+287,Red,August,Rajasthan,0,0,0,0,0,0,0,1,0
+288,Red,August,Tamil Nadu,1,0,0,1,0,0,0,1,0
+289,Red,August,Uttar Pradesh,1,0,0,1,0,0,0,1,0
+290,Red,August,West Bengal,1,0,0,0,0,0,0,0,0
+291,Red,August,Chhattisgarh,1,0,0,0,0,0,0,0,0
+292,Red,August,Jharkhand,1,0,0,0,0,0,0,0,0
+293,Red,August,Uttrakhand,1,0,0,1,0,0,0,0,0
+294,Red,September,Andhra Pradesh and Telangana,1,0,0,0,0,1,0,0,0
+295,Red,September,Assam,1,0,0,0,0,0,0,0,0
+296,Red,September,Bihar,1,0,0,0,0,0,0,0,0
+297,Red,September,Gujarat,1,0,0,0,0,0,0,0,0
+298,Red,September,Haryana,1,0,0,0,0,0,0,0,0
+299,Red,September,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+300,Red,September,Karnataka,1,0,0,0,0,1,0,0,0
+301,Red,September,Kerala,1,0,0,0,0,0,0,0,0
+302,Red,September,Madhya Pradesh,1,0,0,0,0,0,0,0,0
+303,Red,September,Maharashtra,1,0,0,0,0,1,0,0,0
+304,Red,September,Odisha ,1,0,0,0,0,1,0,0,0
+305,Red,September,Punjab,1,0,0,0,0,0,0,0,0
+306,Red,September,Rajasthan,0,0,0,0,0,1,0,0,0
+307,Red,September,Tamil Nadu,1,0,0,0,0,1,0,0,0
+308,Red,September,Uttar Pradesh,1,0,0,0,0,0,0,0,0
+309,Red,September,West Bengal,1,0,0,0,0,0,0,0,0
+310,Red,September,Chhattisgarh,1,0,0,0,0,0,0,0,0
+311,Red,September,Jharkhand,1,0,0,0,0,0,0,0,0
+312,Red,September,Uttrakhand,1,0,0,0,0,1,0,0,0
+313,Red,October,Andhra Pradesh and Telangana,0,0,0,0,0,1,0,0,0
+314,Red,October,Bihar,0,1,0,0,0,0,0,0,0
+315,Red,October,Gujarat,0,1,0,0,0,0,0,0,0
+316,Red,October,Haryana,0,1,0,0,0,0,0,0,0
+317,Red,October,Himachal Pradesh,0,1,0,0,0,0,0,0,0
+318,Red,October,Karnataka,0,0,0,0,0,1,0,0,0
+319,Red,October,Madhya Pradesh,0,1,0,0,0,0,0,0,0
+320,Red,October,Maharashtra,0,0,0,0,0,1,0,0,0
+321,Red,October,Odisha ,0,0,0,0,0,1,0,0,0
+322,Red,October,Punjab,0,1,0,0,0,0,0,0,0
+323,Red,October,Rajasthan,0,1,0,0,0,1,0,0,0
+324,Red,October,Tamil Nadu,0,0,0,0,0,1,0,0,0
+325,Red,October,Uttar Pradesh,0,1,0,0,0,0,0,0,0
+326,Red,October,West Bengal,0,1,0,0,0,0,0,0,0
+327,Red,October,Jharkhand,0,1,0,0,0,0,0,0,0
+328,Red,October,Uttrakhand,0,1,0,0,0,1,0,0,0
+329,Red,November,Andhra Pradesh and Telangana,0,0,0,0,0,1,0,0,0
+330,Red,November,Bihar,0,1,0,0,0,0,0,0,0
+331,Red,November,Gujarat,0,1,0,0,0,0,0,0,0
+332,Red,November,Haryana,0,1,0,0,0,0,0,0,0
+333,Red,November,Himachal Pradesh,0,1,0,0,0,0,0,0,0
+334,Red,November,Karnataka,0,0,0,0,0,1,0,0,0
+335,Red,November,Madhya Pradesh,0,1,0,0,0,0,0,0,0
+336,Red,November,Maharashtra,0,0,0,0,0,1,0,0,0
+337,Red,November,Odisha ,0,0,0,0,0,1,0,0,0
+338,Red,November,Punjab,0,1,0,0,0,0,0,0,0
+339,Red,November,Rajasthan,0,1,0,0,0,1,0,0,0
+340,Red,November,Tamil Nadu,0,0,0,0,0,1,0,0,0
+341,Red,November,Uttar Pradesh,0,1,0,0,0,0,0,0,0
+342,Red,November,West Bengal,0,1,0,0,0,0,0,0,0
+343,Red,November,Jharkhand,0,1,0,0,0,0,0,0,0
+344,Red,November,Uttrakhand,0,1,0,0,0,1,0,0,0
+345,Red,December,Andhra Pradesh and Telangana,1,0,0,0,0,1,0,0,0
+346,Red,December,Assam,1,0,0,0,0,0,0,0,0
+347,Red,December,Bihar,1,1,0,0,0,0,0,0,0
+348,Red,December,Gujarat,1,1,0,0,0,0,0,0,0
+349,Red,December,Haryana,1,1,0,0,0,0,0,0,0
+350,Red,December,Himachal Pradesh,1,1,0,0,0,0,0,0,0
+351,Red,December,Karnataka,1,0,0,0,0,1,0,0,0
+352,Red,December,Kerala,1,0,0,0,0,0,0,0,0
+353,Red,December,Madhya Pradesh,1,1,0,0,0,0,0,0,0
+354,Red,December,Maharashtra,1,0,0,0,0,1,0,0,0
+355,Red,December,Odisha ,1,0,0,0,0,1,0,0,0
+356,Red,December,Punjab,1,1,0,0,0,0,0,0,0
+357,Red,December,Rajasthan,0,1,0,0,0,1,0,0,0
+358,Red,December,Tamil Nadu,1,0,0,0,0,1,0,0,0
+359,Red,December,Uttar Pradesh,1,1,0,0,0,0,0,0,0
+360,Red,December,West Bengal,1,1,0,0,0,0,0,0,0
+361,Red,December,Chhattisgarh,1,0,0,0,0,0,0,0,0
+362,Red,December,Jharkhand,1,1,0,0,0,0,0,0,0
+363,Red,December,Uttrakhand,1,1,0,0,0,1,0,0,0
+364,Black,January,Andhra Pradesh and Telangana,1,0,0,0,0,0,0,1,0
+365,Black,January,Assam,1,0,0,0,0,0,0,0,0
+366,Black,January,Bihar,1,0,0,0,0,0,0,0,0
+367,Black,January,Gujarat,1,0,0,0,0,0,0,1,0
+368,Black,January,Haryana,1,0,0,0,0,0,0,1,0
+369,Black,January,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+370,Black,January,Karnataka,1,0,0,0,0,0,0,1,0
+371,Black,January,Kerala,1,0,0,0,0,0,0,0,0
+372,Black,January,Madhya Pradesh,1,0,0,0,0,0,0,1,0
+373,Black,January,Maharashtra,1,0,0,0,0,0,0,1,0
+374,Black,January,Odisha ,1,0,0,0,0,0,0,0,0
+375,Black,January,Punjab,1,0,0,0,0,0,0,0,0
+376,Black,January,Rajasthan,0,0,0,0,0,0,0,1,0
+377,Black,January,Tamil Nadu,1,0,0,0,0,0,0,1,0
+378,Black,January,Uttar Pradesh,1,0,0,0,0,0,0,1,0
+379,Black,January,West Bengal,1,0,0,0,0,0,0,0,0
+380,Black,January,Chhattisgarh,1,0,0,0,0,0,0,0,0
+381,Black,January,Jharkhand,1,0,0,0,0,0,0,0,0
+382,Black,January,Uttrakhand,1,0,0,0,0,0,0,0,0
+383,Black,February,Andhra Pradesh and Telangana,0,0,0,1,0,0,0,1,0
+384,Black,February,Gujarat,0,0,0,0,0,0,0,1,0
+385,Black,February,Haryana,0,0,0,0,0,0,0,1,0
+386,Black,February,Karnataka,0,0,0,1,0,0,0,1,0
+387,Black,February,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+388,Black,February,Maharashtra,0,0,0,1,0,0,0,1,0
+389,Black,February,Rajasthan,0,0,0,0,0,0,0,1,0
+390,Black,February,Tamil Nadu,0,0,0,1,0,0,0,1,0
+391,Black,February,Uttar Pradesh,0,0,0,1,0,0,0,1,0
+392,Black,February,Uttrakhand,0,0,0,1,0,0,0,0,0
+393,Black,March,Andhra Pradesh and Telangana,0,0,0,1,0,0,1,0,0
+394,Black,March,Bihar,0,0,0,0,0,0,1,0,0
+395,Black,March,Himachal Pradesh,0,0,0,0,0,0,1,0,0
+396,Black,March,Karnataka,0,0,0,1,0,0,1,0,0
+397,Black,March,Madhya Pradesh,0,0,0,0,0,0,1,0,0
+398,Black,March,Maharashtra,0,0,0,1,0,0,1,0,0
+399,Black,March,Odisha ,0,0,0,0,0,0,1,0,0
+400,Black,March,Punjab,0,0,0,0,0,0,1,0,0
+401,Black,March,Rajasthan,0,0,0,0,0,0,1,0,0
+402,Black,March,Tamil Nadu,0,0,0,1,0,0,1,0,0
+403,Black,March,Uttar Pradesh,0,0,0,1,0,0,1,0,0
+404,Black,March,Jharkhand,0,0,0,0,0,0,1,0,0
+405,Black,March,Uttrakhand,0,0,0,1,0,0,0,0,0
+406,Black,April,Andhra Pradesh and Telangana,0,0,1,1,0,0,1,0,0
+407,Black,April,Bihar,0,0,0,0,0,0,1,0,0
+408,Black,April,Gujarat,0,0,1,0,0,0,0,0,0
+409,Black,April,Haryana,0,0,1,0,0,0,0,0,0
+410,Black,April,Himachal Pradesh,0,0,0,0,0,0,1,0,0
+411,Black,April,Karnataka,0,0,1,1,0,0,1,0,0
+412,Black,April,Madhya Pradesh,0,0,1,0,0,0,1,0,0
+413,Black,April,Maharashtra,0,0,1,1,0,0,1,0,0
+414,Black,April,Odisha ,0,0,1,0,0,0,1,0,0
+415,Black,April,Punjab,0,0,1,0,0,0,1,0,0
+416,Black,April,Rajasthan,0,0,1,0,0,0,1,0,0
+417,Black,April,Tamil Nadu,0,0,1,1,0,0,1,0,0
+418,Black,April,Uttar Pradesh,0,0,0,1,0,0,1,0,0
+419,Black,April,Jharkhand,0,0,0,0,0,0,1,0,0
+420,Black,April,Uttrakhand,0,0,0,1,0,0,0,0,0
+421,Black,May,Andhra Pradesh and Telangana,1,0,1,1,0,0,1,1,0
+422,Black,May,Assam,1,0,0,0,0,0,0,0,0
+423,Black,May,Bihar,1,0,0,0,0,0,1,0,0
+424,Black,May,Gujarat,1,0,1,0,0,0,0,1,0
+425,Black,May,Haryana,1,0,1,0,0,0,0,1,0
+426,Black,May,Himachal Pradesh,1,0,0,0,0,0,1,0,0
+427,Black,May,Karnataka,1,0,1,1,0,0,1,1,0
+428,Black,May,Kerala,1,0,0,0,0,0,0,0,0
+429,Black,May,Madhya Pradesh,1,0,1,0,0,0,1,1,0
+430,Black,May,Maharashtra,1,0,1,1,0,0,1,1,0
+431,Black,May,Odisha ,1,0,1,0,0,0,1,0,0
+432,Black,May,Punjab,1,0,1,0,0,0,1,0,0
+433,Black,May,Rajasthan,0,0,1,0,0,0,1,1,0
+434,Black,May,Tamil Nadu,1,0,1,1,0,0,1,1,0
+435,Black,May,Uttar Pradesh,1,0,0,1,0,0,1,1,0
+436,Black,May,West Bengal,1,0,0,0,0,0,0,0,0
+437,Black,May,Chhattisgarh,1,0,0,0,0,0,0,0,0
+438,Black,May,Jharkhand,1,0,0,0,0,0,1,0,0
+439,Black,May,Uttrakhand,1,0,0,1,0,0,0,0,0
+440,Black,June,Andhra Pradesh and Telangana,1,0,1,1,0,0,1,1,0
+441,Black,June,Assam,1,0,0,0,0,0,0,0,0
+442,Black,June,Bihar,1,0,0,0,0,0,1,0,0
+443,Black,June,Gujarat,1,0,1,0,0,0,0,1,0
+444,Black,June,Haryana,1,0,1,0,0,0,0,1,0
+445,Black,June,Himachal Pradesh,1,0,0,0,0,0,1,0,0
+446,Black,June,Karnataka,1,0,1,1,0,0,1,1,0
+447,Black,June,Kerala,1,0,0,0,0,0,0,0,0
+448,Black,June,Madhya Pradesh,1,0,1,0,0,0,1,1,0
+449,Black,June,Maharashtra,1,0,1,1,0,0,1,1,0
+450,Black,June,Odisha ,1,0,1,0,0,0,1,0,0
+451,Black,June,Punjab,1,0,1,0,0,0,1,0,0
+452,Black,June,Rajasthan,0,0,1,0,0,0,1,1,0
+453,Black,June,Tamil Nadu,1,0,1,1,0,0,1,1,0
+454,Black,June,Uttar Pradesh,1,0,0,1,0,0,1,1,0
+455,Black,June,West Bengal,1,0,0,0,0,0,0,0,0
+456,Black,June,Chhattisgarh,1,0,0,0,0,0,0,0,0
+457,Black,June,Jharkhand,1,0,0,0,0,0,1,0,0
+458,Black,June,Uttrakhand,1,0,0,1,0,0,0,0,0
+459,Black,July,Andhra Pradesh and Telangana,1,0,1,1,0,0,1,1,0
+460,Black,July,Assam,1,0,0,0,0,0,0,0,0
+461,Black,July,Bihar,1,0,0,0,0,0,1,0,0
+462,Black,July,Gujarat,1,0,1,0,0,0,0,1,0
+463,Black,July,Haryana,1,0,1,0,0,0,0,1,0
+464,Black,July,Himachal Pradesh,1,0,0,0,0,0,1,0,0
+465,Black,July,Karnataka,1,0,1,1,0,0,1,1,0
+466,Black,July,Kerala,1,0,0,0,0,0,0,0,0
+467,Black,July,Madhya Pradesh,1,0,1,0,0,0,1,1,0
+468,Black,July,Maharashtra,1,0,1,1,0,0,1,1,0
+469,Black,July,Odisha ,1,0,1,0,0,0,1,0,0
+470,Black,July,Punjab,1,0,1,0,0,0,1,0,0
+471,Black,July,Rajasthan,0,0,1,0,0,0,1,1,0
+472,Black,July,Tamil Nadu,1,0,1,1,0,0,1,1,0
+473,Black,July,Uttar Pradesh,1,0,0,1,0,0,1,1,0
+474,Black,July,West Bengal,1,0,0,0,0,0,0,0,0
+475,Black,July,Chhattisgarh,1,0,0,0,0,0,0,0,0
+476,Black,July,Jharkhand,1,0,0,0,0,0,1,0,0
+477,Black,July,Uttrakhand,1,0,0,1,0,0,0,0,0
+478,Black,August,Andhra Pradesh and Telangana,1,0,1,1,0,0,0,1,0
+479,Black,August,Assam,1,0,0,0,0,0,0,0,0
+480,Black,August,Bihar,1,0,0,0,0,0,0,0,0
+481,Black,August,Gujarat,1,0,1,0,0,0,0,1,0
+482,Black,August,Haryana,1,0,1,0,0,0,0,1,0
+483,Black,August,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+484,Black,August,Karnataka,1,0,1,1,0,0,0,1,0
+485,Black,August,Kerala,1,0,0,0,0,0,0,0,0
+486,Black,August,Madhya Pradesh,1,0,1,0,0,0,0,1,0
+487,Black,August,Maharashtra,1,0,1,1,0,0,0,1,0
+488,Black,August,Odisha ,1,0,1,0,0,0,0,0,0
+489,Black,August,Punjab,1,0,1,0,0,0,0,0,0
+490,Black,August,Rajasthan,0,0,1,0,0,0,0,1,0
+491,Black,August,Tamil Nadu,1,0,1,1,0,0,0,1,0
+492,Black,August,Uttar Pradesh,1,0,0,1,0,0,0,1,0
+493,Black,August,West Bengal,1,0,0,0,0,0,0,0,0
+494,Black,August,Chhattisgarh,1,0,0,0,0,0,0,0,0
+495,Black,August,Jharkhand,1,0,0,0,0,0,0,0,0
+496,Black,August,Uttrakhand,1,0,0,1,0,0,0,0,0
+497,Black,September,Andhra Pradesh and Telangana,1,0,0,0,0,1,0,0,0
+498,Black,September,Assam,1,0,0,0,0,0,0,0,0
+499,Black,September,Bihar,1,0,0,0,0,0,0,0,0
+500,Black,September,Gujarat,1,0,0,0,0,0,0,0,0
+501,Black,September,Haryana,1,0,0,0,0,0,0,0,0
+502,Black,September,Himachal Pradesh,1,0,0,0,0,0,0,0,0
+503,Black,September,Karnataka,1,0,0,0,0,1,0,0,0
+504,Black,September,Kerala,1,0,0,0,0,0,0,0,0
+505,Black,September,Madhya Pradesh,1,0,0,0,0,0,0,0,0
+506,Black,September,Maharashtra,1,0,0,0,0,1,0,0,0
+507,Black,September,Odisha ,1,0,0,0,0,1,0,0,0
+508,Black,September,Punjab,1,0,0,0,0,0,0,0,0
+509,Black,September,Rajasthan,0,0,0,0,0,1,0,0,0
+510,Black,September,Tamil Nadu,1,0,0,0,0,1,0,0,0
+511,Black,September,Uttar Pradesh,1,0,0,0,0,0,0,0,0
+512,Black,September,West Bengal,1,0,0,0,0,0,0,0,0
+513,Black,September,Chhattisgarh,1,0,0,0,0,0,0,0,0
+514,Black,September,Jharkhand,1,0,0,0,0,0,0,0,0
+515,Black,September,Uttrakhand,1,0,0,0,0,1,0,0,0
+516,Black,October,Andhra Pradesh and Telangana,0,0,0,0,0,1,0,0,0
+517,Black,October,Bihar,0,1,0,0,0,0,0,0,0
+518,Black,October,Gujarat,0,1,0,0,0,0,0,0,0
+519,Black,October,Haryana,0,1,0,0,0,0,0,0,0
+520,Black,October,Himachal Pradesh,0,1,0,0,0,0,0,0,0
+521,Black,October,Karnataka,0,0,0,0,0,1,0,0,0
+522,Black,October,Madhya Pradesh,0,1,0,0,0,0,0,0,0
+523,Black,October,Maharashtra,0,0,0,0,0,1,0,0,0
+524,Black,October,Odisha ,0,0,0,0,0,1,0,0,0
+525,Black,October,Punjab,0,1,0,0,0,0,0,0,0
+526,Black,October,Rajasthan,0,1,0,0,0,1,0,0,0
+527,Black,October,Tamil Nadu,0,0,0,0,0,1,0,0,0
+528,Black,October,Uttar Pradesh,0,1,0,0,0,0,0,0,0
+529,Black,October,West Bengal,0,1,0,0,0,0,0,0,0
+530,Black,October,Jharkhand,0,1,0,0,0,0,0,0,0
+531,Black,October,Uttrakhand,0,1,0,0,0,1,0,0,0
+532,Black,November,Andhra Pradesh and Telangana,0,0,0,0,0,1,0,0,0
+533,Black,November,Bihar,0,1,0,0,0,0,0,0,0
+534,Black,November,Gujarat,0,1,0,0,0,0,0,0,0
+535,Black,November,Haryana,0,1,0,0,0,0,0,0,0
+536,Black,November,Himachal Pradesh,0,1,0,0,0,0,0,0,0
+537,Black,November,Karnataka,0,0,0,0,0,1,0,0,0
+538,Black,November,Madhya Pradesh,0,1,0,0,0,0,0,0,0
+539,Black,November,Maharashtra,0,0,0,0,0,1,0,0,0
+540,Black,November,Odisha ,0,0,0,0,0,1,0,0,0
+541,Black,November,Punjab,0,1,0,0,0,0,0,0,0
+542,Black,November,Rajasthan,0,1,0,0,0,1,0,0,0
+543,Black,November,Tamil Nadu,0,0,0,0,0,1,0,0,0
+544,Black,November,Uttar Pradesh,0,1,0,0,0,0,0,0,0
+545,Black,November,West Bengal,0,1,0,0,0,0,0,0,0
+546,Black,November,Jharkhand,0,1,0,0,0,0,0,0,0
+547,Black,November,Uttrakhand,0,1,0,0,0,1,0,0,0
+548,Black,December,Andhra Pradesh and Telangana,1,0,0,0,0,1,0,0,0
+549,Black,December,Assam,1,0,0,0,0,0,0,0,0
+550,Black,December,Bihar,1,1,0,0,0,0,0,0,0
+551,Black,December,Gujarat,1,1,0,0,0,0,0,0,0
+552,Black,December,Haryana,1,1,0,0,0,0,0,0,0
+553,Black,December,Himachal Pradesh,1,1,0,0,0,0,0,0,0
+554,Black,December,Karnataka,1,0,0,0,0,1,0,0,0
+555,Black,December,Kerala,1,0,0,0,0,0,0,0,0
+556,Black,December,Madhya Pradesh,1,1,0,0,0,0,0,0,0
+557,Black,December,Maharashtra,1,0,0,0,0,1,0,0,0
+558,Black,December,Odisha ,1,0,0,0,0,1,0,0,0
+559,Black,December,Punjab,1,1,0,0,0,0,0,0,0
+560,Black,December,Rajasthan,0,1,0,0,0,1,0,0,0
+561,Black,December,Tamil Nadu,1,0,0,0,0,1,0,0,0
+562,Black,December,Uttar Pradesh,1,1,0,0,0,0,0,0,0
+563,Black,December,West Bengal,1,1,0,0,0,0,0,0,0
+564,Black,December,Chhattisgarh,1,0,0,0,0,0,0,0,0
+565,Black,December,Jharkhand,1,1,0,0,0,0,0,0,0
+566,Black,December,Uttrakhand,1,1,0,0,0,1,0,0,0
+567,Mountain,January,Assam,0,0,0,0,1,0,0,0,0
+568,Mountain,January,Bihar,0,0,0,0,1,0,0,0,0
+569,Mountain,January,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+570,Mountain,January,Karnataka,0,0,0,0,1,0,0,0,0
+571,Mountain,January,Kerala,0,0,0,0,1,0,0,0,0
+572,Mountain,January,Odisha ,0,0,0,0,1,0,0,0,0
+573,Mountain,January,Tamil Nadu,0,0,0,0,1,0,0,0,0
+574,Mountain,January,West Bengal,0,0,0,0,1,0,0,0,0
+575,Mountain,January,Uttrakhand,0,0,0,0,1,0,0,0,0
+576,Mountain,February,Assam,0,0,0,0,1,0,0,0,0
+577,Mountain,February,Bihar,0,0,0,0,1,0,0,0,0
+578,Mountain,February,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+579,Mountain,February,Karnataka,0,0,0,0,1,0,0,0,0
+580,Mountain,February,Kerala,0,0,0,0,1,0,0,0,0
+581,Mountain,February,Odisha ,0,0,0,0,1,0,0,0,0
+582,Mountain,February,Tamil Nadu,0,0,0,0,1,0,0,0,0
+583,Mountain,February,West Bengal,0,0,0,0,1,0,0,0,0
+584,Mountain,February,Uttrakhand,0,0,0,0,1,0,0,0,0
+585,Mountain,March,Assam,0,0,0,0,1,0,0,0,0
+586,Mountain,March,Bihar,0,0,0,0,1,0,0,0,0
+587,Mountain,March,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+588,Mountain,March,Karnataka,0,0,0,0,1,0,0,0,0
+589,Mountain,March,Kerala,0,0,0,0,1,0,0,0,0
+590,Mountain,March,Odisha ,0,0,0,0,1,0,0,0,0
+591,Mountain,March,Tamil Nadu,0,0,0,0,1,0,0,0,0
+592,Mountain,March,West Bengal,0,0,0,0,1,0,0,0,0
+593,Mountain,March,Uttrakhand,0,0,0,0,1,0,0,0,0
+594,Mountain,April,Assam,0,0,0,0,1,0,0,0,0
+595,Mountain,April,Bihar,0,0,0,0,1,0,0,0,0
+596,Mountain,April,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+597,Mountain,April,Karnataka,0,0,0,0,1,0,0,0,0
+598,Mountain,April,Kerala,0,0,0,0,1,0,0,0,0
+599,Mountain,April,Odisha ,0,0,0,0,1,0,0,0,0
+600,Mountain,April,Tamil Nadu,0,0,0,0,1,0,0,0,0
+601,Mountain,April,West Bengal,0,0,0,0,1,0,0,0,0
+602,Mountain,April,Uttrakhand,0,0,0,0,1,0,0,0,0
+603,Mountain,May,Assam,0,0,0,0,1,0,0,0,0
+604,Mountain,May,Bihar,0,0,0,0,1,0,0,0,0
+605,Mountain,May,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+606,Mountain,May,Karnataka,0,0,0,0,1,0,0,0,0
+607,Mountain,May,Kerala,0,0,0,0,1,0,0,0,0
+608,Mountain,May,Odisha ,0,0,0,0,1,0,0,0,0
+609,Mountain,May,Tamil Nadu,0,0,0,0,1,0,0,0,0
+610,Mountain,May,West Bengal,0,0,0,0,1,0,0,0,0
+611,Mountain,May,Uttrakhand,0,0,0,0,1,0,0,0,0
+612,Mountain,June,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+613,Mountain,June,Karnataka,0,0,0,0,0,0,0,0,0
+614,Mountain,June,Kerala,0,0,0,0,0,0,0,0,0
+615,Mountain,June,Tamil Nadu,0,0,0,0,0,0,0,0,0
+616,Mountain,July,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+617,Mountain,July,Karnataka,0,0,0,0,0,0,0,0,0
+618,Mountain,July,Kerala,0,0,0,0,0,0,0,0,0
+619,Mountain,July,Tamil Nadu,0,0,0,0,0,0,0,0,0
+620,Mountain,August,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+621,Mountain,August,Karnataka,0,0,0,0,0,0,0,0,0
+622,Mountain,August,Kerala,0,0,0,0,0,0,0,0,0
+623,Mountain,August,Tamil Nadu,0,0,0,0,0,0,0,0,0
+624,Mountain,September,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+625,Mountain,September,Karnataka,0,0,0,0,0,0,0,0,0
+626,Mountain,September,Kerala,0,0,0,0,0,0,0,0,0
+627,Mountain,September,Tamil Nadu,0,0,0,0,0,0,0,0,0
+628,Mountain,October,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+629,Mountain,October,Karnataka,0,0,0,0,0,0,0,0,0
+630,Mountain,October,Kerala,0,0,0,0,0,0,0,0,0
+631,Mountain,October,Tamil Nadu,0,0,0,0,0,0,0,0,0
+632,Mountain,November,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+633,Mountain,November,Karnataka,0,0,0,0,0,0,0,0,0
+634,Mountain,November,Kerala,0,0,0,0,0,0,0,0,0
+635,Mountain,November,Tamil Nadu,0,0,0,0,0,0,0,0,0
+636,Mountain,December,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+637,Mountain,December,Karnataka,0,0,0,0,0,0,0,0,0
+638,Mountain,December,Kerala,0,0,0,0,0,0,0,0,0
+639,Mountain,December,Tamil Nadu,0,0,0,0,0,0,0,0,0
+640,Laterite,January,Assam,0,0,0,0,1,0,0,0,0
+641,Laterite,January,Bihar,0,0,0,0,1,0,0,0,0
+642,Laterite,January,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+643,Laterite,January,Karnataka,0,0,0,0,1,0,0,0,0
+644,Laterite,January,Kerala,0,0,0,0,1,0,0,0,0
+645,Laterite,January,Odisha ,0,0,0,0,1,0,0,0,0
+646,Laterite,January,Tamil Nadu,0,0,0,0,1,0,0,0,0
+647,Laterite,January,West Bengal,0,0,0,0,1,0,0,0,0
+648,Laterite,January,Uttrakhand,0,0,0,0,1,0,0,0,0
+649,Laterite,February,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+650,Laterite,February,Assam,0,0,0,0,1,0,0,0,0
+651,Laterite,February,Bihar,0,0,0,0,1,0,0,0,0
+652,Laterite,February,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+653,Laterite,February,Karnataka,0,0,0,0,1,0,0,0,0
+654,Laterite,February,Kerala,0,0,0,0,1,0,0,0,0
+655,Laterite,February,Maharashtra,0,0,0,0,0,0,0,0,0
+656,Laterite,February,Odisha ,0,0,0,0,1,0,0,0,0
+657,Laterite,February,Tamil Nadu,0,0,0,0,1,0,0,0,0
+658,Laterite,February,West Bengal,0,0,0,0,1,0,0,0,0
+659,Laterite,February,Uttrakhand,0,0,0,0,1,0,0,0,0
+660,Laterite,March,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+661,Laterite,March,Assam,0,0,0,0,1,0,0,0,0
+662,Laterite,March,Bihar,0,0,0,0,1,0,0,0,0
+663,Laterite,March,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+664,Laterite,March,Karnataka,0,0,0,0,1,0,0,0,0
+665,Laterite,March,Kerala,0,0,0,0,1,0,0,0,0
+666,Laterite,March,Maharashtra,0,0,0,0,0,0,0,0,0
+667,Laterite,March,Odisha ,0,0,0,0,1,0,0,0,0
+668,Laterite,March,Tamil Nadu,0,0,0,0,1,0,0,0,0
+669,Laterite,March,West Bengal,0,0,0,0,1,0,0,0,0
+670,Laterite,March,Uttrakhand,0,0,0,0,1,0,0,0,0
+671,Laterite,April,Assam,0,0,0,0,1,0,0,0,0
+672,Laterite,April,Bihar,0,0,0,0,1,0,0,0,0
+673,Laterite,April,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+674,Laterite,April,Karnataka,0,0,0,0,1,0,0,0,0
+675,Laterite,April,Kerala,0,0,0,0,1,0,0,0,0
+676,Laterite,April,Odisha ,0,0,0,0,1,0,0,0,0
+677,Laterite,April,Tamil Nadu,0,0,0,0,1,0,0,0,0
+678,Laterite,April,West Bengal,0,0,0,0,1,0,0,0,0
+679,Laterite,April,Uttrakhand,0,0,0,0,1,0,0,0,0
+680,Laterite,May,Assam,0,0,0,0,1,0,0,0,0
+681,Laterite,May,Bihar,0,0,0,0,1,0,0,0,0
+682,Laterite,May,Himachal Pradesh,0,0,0,0,1,0,0,0,0
+683,Laterite,May,Karnataka,0,0,0,0,1,0,0,0,0
+684,Laterite,May,Kerala,0,0,0,0,1,0,0,0,0
+685,Laterite,May,Odisha ,0,0,0,0,1,0,0,0,0
+686,Laterite,May,Tamil Nadu,0,0,0,0,1,0,0,0,0
+687,Laterite,May,West Bengal,0,0,0,0,1,0,0,0,0
+688,Laterite,May,Uttrakhand,0,0,0,0,1,0,0,0,0
+689,Laterite,June,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+690,Laterite,June,Karnataka,0,0,0,0,0,0,0,0,0
+691,Laterite,June,Kerala,0,0,0,0,0,0,0,0,0
+692,Laterite,June,Tamil Nadu,0,0,0,0,0,0,0,0,0
+693,Laterite,July,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+694,Laterite,July,Karnataka,0,0,0,0,0,0,0,0,0
+695,Laterite,July,Kerala,0,0,0,0,0,0,0,0,0
+696,Laterite,July,Tamil Nadu,0,0,0,0,0,0,0,0,0
+697,Laterite,August,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+698,Laterite,August,Karnataka,0,0,0,0,0,0,0,0,0
+699,Laterite,August,Kerala,0,0,0,0,0,0,0,0,0
+700,Laterite,August,Tamil Nadu,0,0,0,0,0,0,0,0,0
+701,Laterite,September,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+702,Laterite,September,Karnataka,0,0,0,0,0,0,0,0,0
+703,Laterite,September,Kerala,0,0,0,0,0,0,0,0,0
+704,Laterite,September,Tamil Nadu,0,0,0,0,0,0,0,0,0
+705,Laterite,October,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+706,Laterite,October,Karnataka,0,0,0,0,0,0,0,0,0
+707,Laterite,October,Kerala,0,0,0,0,0,0,0,0,0
+708,Laterite,October,Tamil Nadu,0,0,0,0,0,0,0,0,0
+709,Laterite,November,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+710,Laterite,November,Karnataka,0,0,0,0,0,0,0,0,0
+711,Laterite,November,Kerala,0,0,0,0,0,0,0,0,0
+712,Laterite,November,Tamil Nadu,0,0,0,0,0,0,0,0,0
+713,Laterite,December,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,0,0
+714,Laterite,December,Karnataka,0,0,0,0,0,0,0,0,0
+715,Laterite,December,Kerala,0,0,0,0,0,0,0,0,0
+716,Laterite,December,Tamil Nadu,0,0,0,0,0,0,0,0,0
+717,Desert,January,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,1,0
+718,Desert,January,Gujarat,0,0,0,0,0,0,0,1,0
+719,Desert,January,Haryana,0,0,0,0,0,0,0,1,0
+720,Desert,January,Karnataka,0,0,0,0,0,0,0,1,0
+721,Desert,January,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+722,Desert,January,Maharashtra,0,0,0,0,0,0,0,1,0
+723,Desert,January,Rajasthan,0,0,0,0,0,0,0,1,0
+724,Desert,January,Tamil Nadu,0,0,0,0,0,0,0,1,0
+725,Desert,January,Uttar Pradesh,0,0,0,0,0,0,0,1,0
+726,Desert,February,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,1,0
+727,Desert,February,Gujarat,0,0,0,0,0,0,0,1,0
+728,Desert,February,Haryana,0,0,0,0,0,0,0,1,0
+729,Desert,February,Karnataka,0,0,0,0,0,0,0,1,0
+730,Desert,February,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+731,Desert,February,Maharashtra,0,0,0,0,0,0,0,1,0
+732,Desert,February,Rajasthan,0,0,0,0,0,0,0,1,0
+733,Desert,February,Tamil Nadu,0,0,0,0,0,0,0,1,0
+734,Desert,February,Uttar Pradesh,0,0,0,0,0,0,0,1,0
+735,Desert,May,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,1,0
+736,Desert,May,Gujarat,0,0,0,0,0,0,0,1,0
+737,Desert,May,Haryana,0,0,0,0,0,0,0,1,0
+738,Desert,May,Karnataka,0,0,0,0,0,0,0,1,0
+739,Desert,May,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+740,Desert,May,Maharashtra,0,0,0,0,0,0,0,1,0
+741,Desert,May,Rajasthan,0,0,0,0,0,0,0,1,0
+742,Desert,May,Tamil Nadu,0,0,0,0,0,0,0,1,0
+743,Desert,May,Uttar Pradesh,0,0,0,0,0,0,0,1,0
+744,Desert,June,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,1,0
+745,Desert,June,Gujarat,0,0,0,0,0,0,0,1,0
+746,Desert,June,Haryana,0,0,0,0,0,0,0,1,0
+747,Desert,June,Karnataka,0,0,0,0,0,0,0,1,0
+748,Desert,June,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+749,Desert,June,Maharashtra,0,0,0,0,0,0,0,1,0
+750,Desert,June,Rajasthan,0,0,0,0,0,0,0,1,0
+751,Desert,June,Tamil Nadu,0,0,0,0,0,0,0,1,0
+752,Desert,June,Uttar Pradesh,0,0,0,0,0,0,0,1,0
+753,Desert,July,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,1,0
+754,Desert,July,Gujarat,0,0,0,0,0,0,0,1,0
+755,Desert,July,Haryana,0,0,0,0,0,0,0,1,0
+756,Desert,July,Karnataka,0,0,0,0,0,0,0,1,0
+757,Desert,July,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+758,Desert,July,Maharashtra,0,0,0,0,0,0,0,1,0
+759,Desert,July,Rajasthan,0,0,0,0,0,0,0,1,0
+760,Desert,July,Tamil Nadu,0,0,0,0,0,0,0,1,0
+761,Desert,July,Uttar Pradesh,0,0,0,0,0,0,0,1,0
+762,Desert,August,Andhra Pradesh and Telangana,0,0,0,0,0,0,0,1,0
+763,Desert,August,Gujarat,0,0,0,0,0,0,0,1,0
+764,Desert,August,Haryana,0,0,0,0,0,0,0,1,0
+765,Desert,August,Karnataka,0,0,0,0,0,0,0,1,0
+766,Desert,August,Madhya Pradesh,0,0,0,0,0,0,0,1,0
+767,Desert,August,Maharashtra,0,0,0,0,0,0,0,1,0
+768,Desert,August,Rajasthan,0,0,0,0,0,0,0,1,0
+769,Desert,August,Tamil Nadu,0,0,0,0,0,0,0,1,0
+770,Desert,August,Uttar Pradesh,0,0,0,0,0,0,0,1,0
+771,Desert,September,Bihar,0,0,0,0,0,0,0,0,1
+772,Desert,September,Haryana,0,0,0,0,0,0,0,0,1
+773,Desert,September,Himachal Pradesh,0,0,0,0,0,0,0,0,1
+774,Desert,September,Madhya Pradesh,0,0,0,0,0,0,0,0,1
+775,Desert,September,Punjab,0,0,0,0,0,0,0,0,1
+776,Desert,September,Rajasthan,0,0,0,0,0,0,0,0,1
+777,Desert,September,Uttar Pradesh,0,0,0,0,0,0,0,0,1
+778,Desert,September,Uttrakhand,0,0,0,0,0,0,0,0,1
+779,Desert,October,Bihar,0,0,0,0,0,0,0,0,1
+780,Desert,October,Haryana,0,0,0,0,0,0,0,0,1
+781,Desert,October,Himachal Pradesh,0,0,0,0,0,0,0,0,1
+782,Desert,October,Madhya Pradesh,0,0,0,0,0,0,0,0,1
+783,Desert,October,Punjab,0,0,0,0,0,0,0,0,1
+784,Desert,October,Rajasthan,0,0,0,0,0,0,0,0,1
+785,Desert,October,Uttar Pradesh,0,0,0,0,0,0,0,0,1
+786,Desert,October,Uttrakhand,0,0,0,0,0,0,0,0,1
+787,Desert,November,Bihar,0,0,0,0,0,0,0,0,1
+788,Desert,November,Haryana,0,0,0,0,0,0,0,0,1
+789,Desert,November,Himachal Pradesh,0,0,0,0,0,0,0,0,1
+790,Desert,November,Madhya Pradesh,0,0,0,0,0,0,0,0,1
+791,Desert,November,Punjab,0,0,0,0,0,0,0,0,1
+792,Desert,November,Rajasthan,0,0,0,0,0,0,0,0,1
+793,Desert,November,Uttar Pradesh,0,0,0,0,0,0,0,0,1
+794,Desert,November,Uttrakhand,0,0,0,0,0,0,0,0,1
