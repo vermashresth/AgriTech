@@ -1,3 +1,4 @@
+from matplotlib import pyplot as plt
 import pandas as pd
 df=pd.read_csv("file.csv")
 
@@ -14,3 +15,10 @@ print df.head()
 
 data=pd.DataFrame(df[['crop','state','time','price']],columns=['crop','state','time','price'])
 print data.describe()
+series=data[data['crop']==0][data['state']==0]
+
+series= series[['time','price']]
+print series.head
+#series.plot()
+plt.plot(series['time'],series['price'])
+plt.show()
