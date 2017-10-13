@@ -13,9 +13,9 @@ import re
 
 df=pd.DataFrame(columns=[])
 dates=[1,5,10,15,20]
-state=['HR']
+state=['HR','MP']
 month=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
-yr=[2015,2016,2017]
+yr=[2012,2013,2014,2015,2016,2017]
 fin=np.array([])
 print (len(fin))
 for p,i in enumerate(dates):
@@ -23,13 +23,13 @@ for p,i in enumerate(dates):
         for k,inn in enumerate(month):
             for r,w in enumerate(yr):
                 if(p>0):
-                    st=
-                    print ("http://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=1&Tx_State="+j+"&Tx_District=0&Tx_Market=0&DateFrom="+str(i)+"-"+month[k]+"-"+str(w)+"&DateTo="+str(i+5)+"-"+month[(k+1)%6]+"-"+str(w)+"&Fr_Date="+str(i)+"-"+month[k]+"-"+str(w)+"&ToDate="str(i+5)+"-"+month[(k+1)%6]+"-"+str(w)+"&Tx_Trend=0&Tx_CommodityHead=Maize&Tx_StateHead=Haryana&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select--")
-                    sauce=urllib.request.urlopen("http://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity="+str(i)+"&Tx_State="+j+"&Tx_District=0&Tx_Market=0&DateFrom=01-"+month[k]+"-"+str(w)+"&DateTo=01-"+month[(k+1)%6]+"-"+str(w)+"&Fr_Date=01-"+month[k]+"-"+str(w)+"&ToDate=01-"+month[(k+1)%6]+"-"+str(w)+"&Tx_Trend=0&Tx_CommodityHead=Maize&Tx_StateHead=Haryana&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select--").read()
+                    
+                    print ("http://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=1&Tx_State="+j+"&Tx_District=0&Tx_Market=0&DateFrom="+str(i)+"-"+month[k]+"-"+str(w)+"&DateTo="+str(i+5)+"-"+month[(k+1)%12]+"-"+str(w)+"&Fr_Date="+str(i)+"-"+month[k]+"-"+str(w)+"&ToDate="+str(i+5)+"-"+month[(k+1)%6]+"-"+str(w)+"&Tx_Trend=0&Tx_CommodityHead=Maize&Tx_StateHead=Haryana&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select--")
+                    sauce=urllib.request.urlopen("http://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=1&Tx_State="+j+"&Tx_District=0&Tx_Market=0&DateFrom="+str(i)+"-"+month[k]+"-"+str(w)+"&DateTo="+str(i+5)+"-"+month[(k+1)%12]+"-"+str(w)+"&Fr_Date="+str(i)+"-"+month[k]+"-"+str(w)+"&ToDate="+str(i+5)+"-"+month[(k+1)%6]+"-"+str(w)+"&Tx_Trend=0&Tx_CommodityHead=Maize&Tx_StateHead=Haryana&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select--").read()
                     arr=[]
                     soup = bs.BeautifulSoup(sauce, 'lxml')
                     
-                    for co in soup.find_all("span",{"id":re.compile('cphBody_GridPriceData_LabModalpric_*')}):
+                    for co in soup.find_all("span",{"id":re.compile('cphBody_GridPriceData_Labmaxpric_*')}):
                            arr.append(int(str(co).split('>')[1].split('<')[0].split('.')[0]))
                     #print(arr)
                     if(len(arr)!=0):
