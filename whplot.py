@@ -15,7 +15,7 @@ print df.head()
 
 data=pd.DataFrame(df[['date','state','time','price']],columns=['date','state','time','price'])
 print data.describe()
-series=data[data['state']==1]
+series=data[data['state']==0]
 
 series= series[['time','price']]
 print series.head
@@ -23,9 +23,17 @@ print series.head
 """
 plt.plot(series['time'],series['price'])
 
-series=data[data['state']==1]
-"""
+series=data[data['state']==0]
+
 series= series[['time','price']]
+"""
+val=series['price'].values
+print len(val)
+avg=[]
+i=0
+while i < 282:
+		avg.append(sum(val[i:i+5])/5)
+		i+=5
 print series.shape	
-plt.plot(series['time'],series['price'])
+plt.plot(range(len(avg)),avg)
 plt.show()
