@@ -71,7 +71,9 @@ def main(image_path, graph_file="tf_files/retrained_graph.pb"):
 		
 		if j==1:
 			#print( i,"aaa")
-			print("Profit of Rs ",str(last.getprofit(i))," per hectare for growing " ,cropss[i])
+			#print("Profit of Rs ",str(last.getprofit(i))," per hectare for growing " ,cropss[i])
+			finres.append(last.getprofit(i))
+			finres.append(cropss[i])
         #print top_k[0]
 finres=[]  
 cropss=["Rice","Wheat","Cotton","Sugarcane","Tea","Ragi","Maize","Millet","Barley"]
