@@ -6,7 +6,7 @@ from keras.preprocessing.sequence import pad_sequences
 
 from matplotlib import pyplot as plt
 
-#sine and cos wave
+#sine and cos wave and stuff
 import numpy as np
 
 
